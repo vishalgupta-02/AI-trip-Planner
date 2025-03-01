@@ -6,10 +6,6 @@
   <p align="center">
     Discover personalized itineraries and curated hotel recommendations tailored to your interests. Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
     <br />
-    <br />
-    
-    <br />
-    <br />
 
   </p>
 </div>
