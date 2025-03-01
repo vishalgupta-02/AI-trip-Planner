@@ -284,7 +284,7 @@ If you encounter a bug or have a suggestion to improve the project, please open 
 </br>
 <div align="center">
 
-## Contact Us
+## Contact Me
 
 </div>
 We’d love to hear from you! Whether you have a question, suggestion, or issue to report, feel free to get in touch with us.
